@@ -1,6 +1,6 @@
 # Hackclub - Vs Code Theme
 
-A theme inspired in the hackclub community. fully open-source as the hackclub itself!
+A theme inspired by the hackclub community. fully open-source as the hackclub itself!
 
 i did this cause my old theme was kinda boring and i wanted to contribute to hackclub in a way no one did!
 
@@ -8,7 +8,7 @@ i did this cause my old theme was kinda boring and i wanted to contribute to hac
 
 ## Installation
 
-The hackclub theme is not disponible in vscode marketplace yet... so to download and use hackclub you need to did it by yourself 💪
+The hackclub theme is not disponible in vscode-marketplace yet... so to download and use hackclub theme you need to download and configure it yourself 💪
 
 To install the hackclub theme follow the steps:
 
@@ -23,7 +23,7 @@ c:/<your-user>/.vscode/extensions
 
 ## Updates
 
-Every time you update VS code, you will need to repeat this step to reinstall the updates (unless you downloaded it using vscode-marketplace)
+Every time you update VS code or the theme gets a update, you will need to repeat this step to reinstall the updates (unless you downloaded it using vscode-marketplace)
 
 ## Contributing
 
