@@ -1,0 +1,52 @@
+{
+	"name": "HackClub Theme",
+	"colors": {
+	  "editor.background": "#17171d",
+	  "editor.foreground": "#ffffff",
+	  "editor.selectionBackground": "#338eda",
+	  "editorCursor.foreground": "#ffffff",
+	  "editor.lineHighlightBackground": "#252429",
+	  "editorBracketMatch.background": "#252429",
+	  "editorBracketMatch.border": "#338eda",
+	  "editorIndentGuide.background": "#252429",
+	  "editorIndentGuide.activeBackground": "#338eda",
+	  "editor.inactiveSelectionBackground": "#3c4858",
+	  "editor.wordHighlightBackground": "#338eda",
+	  "editor.wordHighlightStrongBackground": "#5bc0de",
+	  "editor.findMatchBackground": "#338eda",
+	  "editor.findMatchHighlightBackground": "#5bc0de",
+	  "editor.findRangeHighlightBackground": "#252429",
+	  "editor.findMatchBorder": "#338eda",
+	  "editor.hoverHighlightBackground": "#5bc0de",
+	  "editor.lineHighlightBorder": "#338eda",
+	  "editorLink.activeForeground": "#5bc0de",
+	  "editor.rangeHighlightBackground": "#5bc0de"
+	},
+	"tokenColors": [
+	  {
+		"name": "String",
+		"scope": "string",
+		"foreground": "#ec3750"
+	  },
+	  {
+		"name": "Number",
+		"scope": "constant.numeric",
+		"foreground": "#ff8c37"
+	  },
+	  {
+		"name": "Function",
+		"scope": "entity.name.function",
+		"foreground": "#f1c40f"
+	  },
+	  {
+		"name": "Variable",
+		"scope": "variable",
+		"foreground": "#33d6a6"
+	  },
+	  {
+		"name": "Keyword",
+		"scope": "keyword",
+		"foreground": "#338eda"
+	  }
+	]
+  }  

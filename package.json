@@ -1,0 +1,21 @@
+{
+    "name": "hackclub-theme",
+    "displayName": "hackclub-theme",
+    "description": "A hackclub inspired theme.",
+    "version": "0.0.1",
+    "engines": {
+      "vscode": "^1.74.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "HackClub Theme",
+          "uiTheme": "vs-dark",
+          "path": "./themes/hackclub.json"
+        }
+      ]
+    }
+  }  
