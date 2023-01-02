@@ -4,7 +4,7 @@ A theme inspired by the hackclub community. fully open-source as the hackclub it
 
 i did this cause my old theme was kinda boring and i wanted to contribute to hackclub in a way no one did!
 
-[screenshot](/screenshot.png)
+<img src="screenshot.png"/>
 
 ## Installation
 
