@@ -12,7 +12,7 @@
     "contributes": {
       "themes": [
         {
-          "label": "HackClub Theme",
+          "label": "hackclub-theme",
           "uiTheme": "vs-dark",
           "path": "./themes/hackclub.json"
         }
