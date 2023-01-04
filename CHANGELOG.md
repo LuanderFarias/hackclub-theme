@@ -2,8 +2,6 @@
 
 All notable changes to the "hackclub-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
 - Initial release
@@ -11,3 +9,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Beta Release]
 
 - Beta 0.1.0 release
+
+## [Release 🎉]
+
+- Launching the first release!
+- Planning to finally upload to vscode marketplace!
+- I finally think i'm ready to use it by myself lol.
